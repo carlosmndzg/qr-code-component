@@ -17,12 +17,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./images/image-qr-code.png)
+![](./images/solution.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/carlosmndzg/qr-code-component)
+- Live Site URL: [Live site URL](https://qr-code-component-dev.netlify.app/)
 
 ## My process
 
